@@ -1,0 +1,30 @@
+A
+Badminton Club
+Ohio State University
+0
+A
+Marathon Club
+University of Oregon
+0
+A
+Surfing Club
+University of Hawaii
+2
+A
+Volleyball Club
+University of Washington
+1
+R
+Softball Club
+University of Arizona
+D
+R
+Badminton Club
+Ohio State University
+D
+R
+Archery Club
+University of Oregon
+D
+Q
+
